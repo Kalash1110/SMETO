@@ -40,3 +40,15 @@ consumption. The terms SE and EE are defined as follows:
 ------------------------------------------------------------------------------
 Implementation
 ---------------------------------------------------------------------
+#Tool: - Jupyter notebooks
+#Language: - Python
+
+You can go to the master branch and simply get the smeto.ipynb file which contains the hard coded nature of the algorithm given in the paper.It is not the complete dynamic implementation of paper but it contains the static implementation which emulates the SMETO algorithm.You can simply download the file and run it on your system to see the results.
+
+--------------------------------
+Reference
+--------------------------------
+The algorithm used is conference paper from IEEE named SMETO: Stable Matching for Energy-Minimized
+Task Offloading in Cloud-Fog Networks
+
+Link:- https://ieeexplore.ieee.org/document/8891292
